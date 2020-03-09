@@ -1,0 +1,22 @@
+body { 
+text-align: center;
+margin: 95px;
+}
+
+h1 {
+  font-size: 400%;
+  color: rgb(0, 0, 0);
+  text-shadow: 1.5px 1px rgb(255, 235, 235);
+}
+
+div.form-group {
+  font-size: 195%;
+  color: rgb(255, 51, 51);
+  text-shadow: 2px 1px black;
+}
+
+li {
+  font-size: 160%;
+  color: black;
+  font-weight: bold;
+}
